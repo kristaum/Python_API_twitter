@@ -1,0 +1,4 @@
+#modules you need to install with pip
+pymongo
+flask
+python-twitter
